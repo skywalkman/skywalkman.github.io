@@ -20,7 +20,7 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 ```
 
-*VS Code* looks promising, the markdown page edit preview is quite handly, also has a build in source control where the commit and push is one click away. The Extensions searching and installing from the marketplace is very easy and powerful, definitely will find more interesting things in the coming days.
+*VS Code* looks promising, the markdown page edit preview is quite handy, also has a built in source control where the commit and push is one click away. The Extensions searching and installing from the marketplace is very easy and powerful, definitely will find more interesting things in the coming days.
 
 [setting-up-gp-locally]: https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
 [jekyll-syntax-highlighter-not-working]:https://stackoverflow.com/questions/38233170/jekyll-syntax-highlighter-not-working
